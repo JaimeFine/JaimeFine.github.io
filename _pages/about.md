@@ -11,9 +11,7 @@ I am currently pursuing my BSc in Department of Computer Science, Sichuan Univer
 
 Academic Focus
 ======
-I am studying computer science, with a research interest in developing adaptive intelligent systems that can efficiently learn, evolve and operate in changing environments.
-
-My current research focuses on the intersection of adaptive intelligence, continual learning, and autonomous systems. I am particularly interested in understanding how intelligent systems can adapt by reorganizing existing computational capabilities before modifying their internal parameters or structures (a research project, currently a [draft](https://arxiv.org/abs/2607.22748) on arXiv).
+My current research focuses on the intersection of adaptive intelligence, continual learning, and autonomous systems. I am exploring how intelligent systems can adapt by reorganizing existing computational capabilities before modifying their internal parameters or structures (a research project, currently a [draft](https://arxiv.org/abs/2607.22748) on arXiv).
 
 Featured research projects:
 
