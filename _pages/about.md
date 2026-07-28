@@ -1,19 +1,49 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently pursuing my BSc in Department of Computer Science, Sichuan University. I've just completed my sophomore year, and I am excited to continue building my skills and experiences both inside and outside the classroom.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Academic Focus
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am studying computer science, with a research interest in developing adaptive intelligent systems that can efficiently learn, evolve and operate in changing environments.
+
+My current research focuses on the intersection of adaptive intelligence, continual learning, and autonomous systems. I am particularly interested in understanding how intelligent systems can adapt by reorganizing existing computational capabilities before modifying their internal parameters or structures (a research project, currently a [draft](https://arxiv.org/abs/2607.22748) on arXiv).
+
+Featured research projects:
+
+- [Adaptive Density Field](https://arxiv.org/abs/2601.06135): A geometric attention framework that formulates spatial aggregation as a query-conditioned, metric-induced attention operator in continuous space. (Under review)
+- [Event-Retrieve Action Framework](https://arxiv.org/abs/2604.07392): An event-centric world-modeling framework that augments embodied decision-making through structured memory retrieval. (Under review)
+- [Swarm Policy Interference Network](https://arxiv.org/abs/2606.07557): An architectural paradigm that bypasses these limitations by modeling swarm topologies as a compressed tensor network. (Under review)
+
+Research Interests
+------
+Machine learning for:
+- Adaptive Intelligence
+- Continual Learning and Computational Plasticity
+- Autonomous and Embodied Systems
+
+Personal Timeline
+======
+- 2006: Born and spent early childhood in Beijing, China.
+- 2016.6 - 2020.10: Moved to Madrid, Spain; lived abroad and experienced a new culture and education system.
+- 2020.11 - 2023.8: Moved to Dangyang, Hubei, China; prepared for the high school entrance and took high school courses in Dangyang No.1 High School.
+- 2023.9 - 2024.8: Moved back to Beijing, China; prepared for university entrance.
+- 2024.9 - now: Chengdu, Sichuan; Started college life at Sichuan University; currently finishing sophomore year and entering junior year in Fall 2026.
+
+Interests and Hobbies
+======
+- English (Fluent) - Chinese (Native) - Spanish (DELE B2) - German (Roughly around A2)
+- Previously aspiring professional pianist / composer
+- Interested in literature, cognition, and interdisciplinary domains
+- Enjoy city walking, traveling, football, badminton, and complex origami
+
+<!--
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
